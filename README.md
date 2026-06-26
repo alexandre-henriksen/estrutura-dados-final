@@ -34,9 +34,7 @@ Metaheurística VND (Variable Neighborhood Descent)
 3. Estrutura do Projeto
 
 ├── data/               # Instâncias do problema (TSPLIB)
-
 ├── docs/               # Documentação (enunciado do Projeto Final)
-
 ├── src/                # Código-fonte
 
 │   ├── tsp.py          # Representação do problema
