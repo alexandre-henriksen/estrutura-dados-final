@@ -36,27 +36,16 @@ Metaheurística VND (Variable Neighborhood Descent)
 ├── data/               # Instâncias do problema (TSPLIB)
 ├── docs/               # Documentação (enunciado do Projeto Final)
 ├── src/                # Código-fonte
-
 │   ├── tsp.py          # Representação do problema
-
 │   ├── heuristics.py   # Heurísticas de construção
-
 │   ├── neighborhoods.py# Movimentos de vizinhança
-
 │   ├── vnd.py          # Implementação do VND
-
 │   └── utils.py        # Funções auxiliares
-
 │
-
 ├── results/            # Resultados experimentais
-
 ├── main.py             # Pipeline de execução
-
 ├── tsp_step_by...iypnb # Notebook de análise e visualização
-
 ├── README.md
-
 └── requirements.txt
 
 4. Heurísticas Implementadas
