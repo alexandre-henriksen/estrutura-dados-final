@@ -2,8 +2,11 @@ Problema do Caixeiro Viajante (TSP) com VND
 
 ****
 => Execute o algoritmo
+
 python main.py --instance data/berlin52.tsp
+
 python main.py --instance data/st70.tsp
+
 python main.py --instance data/kroA100.tsp
 ****
 
